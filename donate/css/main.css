@@ -73,7 +73,6 @@ body .content {
   width: auto;
   color: white;
   background-color: rgba(0, 0, 0, 0.5);
-  height: 90vh;
 }
 
 body .content h1 {
@@ -115,7 +114,7 @@ body .footer {
           align-items: center;
   padding: 1rem;
   color: white;
-  margin-top: 7rem;
+  margin-top: 6.3rem;
   background-color: rgba(0, 0, 0, 0.5);
 }
 
